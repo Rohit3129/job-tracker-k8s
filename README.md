@@ -1,10 +1,10 @@
-# Job Application Tracker — Deployed on Kubernetes
+# Job Application Tracker - Deployed on Kubernetes
 
 A 3-tier web application (React/TypeScript frontend, FastAPI backend, PostgreSQL database) built from scratch, containerized with Docker, and deployed on a local Kubernetes cluster using Kind — with full manual manifest authoring, failure debugging, and deployment automation.
 
 ## What it does
 
-Tracks job applications — company, role, status, and applied date — through a simple web UI backed by a real database.
+Tracks job applications - company, role, status, and applied date - through a simple web UI backed by a real database.
 
 ## Stack
 
